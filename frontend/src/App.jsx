@@ -105,22 +105,26 @@ const App = () => {
   return (
     <Container
       style={{
-        padding: 20,
+        padding: 10,
         display: "flex",
         flexDirection: "column",
         alignItems: "center",
+        margin: "auto",
         justifyContent: "center",
         minHeight: "50%",
+        border: "1px dotted gray",
       }}
       onContextMenu={(e) => e.preventDefault()}
     >
       <Header>
-        <Heading>Tree Structure File Management</Heading>
+        <Heading as={"h2"}>Tree Structure File Management</Heading>
       </Header>
 
       <Divider />
 
-      <Content style={{ backgroundColor: "#F8F4E1", width: "100%" }}>
+      <Content
+        style={{ backgroundColor: "#F1F1F1", width: "100%", margin: "auto" }}
+      >
         <Tree
           showIndentLine
           disabledItemValues={["1"]}

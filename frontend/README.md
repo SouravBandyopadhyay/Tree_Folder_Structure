@@ -1,2 +1,0 @@
-- https://blog.logrocket.com/creating-react-context-menu/
-- https://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/
