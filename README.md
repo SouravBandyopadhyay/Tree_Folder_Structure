@@ -55,7 +55,7 @@ Start the server(backend) / frontend
 
 ## Screenshots
 
-[![Screenshot-19-5-2024-115359-localhost.jpg](https://i.postimg.cc/DZRjRcY4/Screenshot-19-5-2024-115359-localhost.jpg)](https://postimg.cc/k6FvbWC7)
+![App Screenshot](https://i.postimg.cc/W1J3vp3D/Screenshot-19-5-2024-11551-localhost.jpg)
 
 
 ### LINK
